@@ -1,6 +1,6 @@
 # React + Vite
 
-# [react-spring-bottom-sheet](https://pip.pypa.io/en/stable/)
+# [react-spring-bottom-sheet](https://react-spring.bottom-sheet.dev/)
 
 ```bash
 npm i 
